@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">RetrofitExample</string>
+    <string name="error_occurred">Error occurred</string>
+    <string name="try_again">Try get Info again?</string>
+    <string name="again">Again</string>
+    <string name="loding">Loding...</string>
+    <string name="get_info">GET INFO</string>
 </resources>
