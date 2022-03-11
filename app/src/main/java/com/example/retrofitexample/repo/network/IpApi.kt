@@ -8,7 +8,7 @@ interface IpApi {
 
 /*
     @FormUrlEncoded
-    @POST("mycode") //  ex: https://yourserver.com/mycode
+    @POST("mycode") //  For ex.: if BASE_URL = https://yourserver.com/ (look MainRepo), so request will be:  https://yourserver.com/mycode
     fun codeCheck(
         @Field("code") code_param: String = "",    // code - request field name, code_param - field value
         @Field("apps_id") apps_id_param: String = "",
